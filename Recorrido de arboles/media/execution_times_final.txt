@@ -1,0 +1,48 @@
+Nodes: 10
+InOrder Time: 4.135e-06 seconds
+PostOrder Time: 3.03e-06 seconds
+PreOrder Time: 3.057e-06 seconds
+BreadthFirst Time: 0.000454904 seconds
+----------------------------------------
+Nodes: 100
+InOrder Time: 4.1811e-05 seconds
+PostOrder Time: 3.9322e-05 seconds
+PreOrder Time: 4.057e-05 seconds
+BreadthFirst Time: 0.000422282 seconds
+----------------------------------------
+Nodes: 1000
+InOrder Time: 0.00071953 seconds
+PostOrder Time: 0.000339778 seconds
+PreOrder Time: 0.000348268 seconds
+BreadthFirst Time: 0.00111289 seconds
+----------------------------------------
+Nodes: 10000
+InOrder Time: 0.0115278 seconds
+PostOrder Time: 0.00232591 seconds
+PreOrder Time: 0.00207519 seconds
+BreadthFirst Time: 0.0311468 seconds
+----------------------------------------
+Nodes: 100000
+InOrder Time: 0.068623 seconds
+PostOrder Time: 0.0817676 seconds
+PreOrder Time: 0.0932903 seconds
+BreadthFirst Time: 0.150766 seconds
+----------------------------------------
+Nodes: 1000000
+InOrder Time: 0.928443 seconds
+PostOrder Time: 0.947642 seconds
+PreOrder Time: 0.954555 seconds
+BreadthFirst Time: 1.45075 seconds
+----------------------------------------
+Nodes: 10000000
+InOrder Time: 10.418 seconds
+PostOrder Time: 10.3861 seconds
+PreOrder Time: 10.5253 seconds
+BreadthFirst Time: 14.607 seconds
+----------------------------------------
+Nodes: 100000000
+InOrder Time: 139.775 seconds
+PostOrder Time: 149.183 seconds
+PreOrder Time: 153.865 seconds
+BreadthFirst Time: 181.819 seconds
+----------------------------------------

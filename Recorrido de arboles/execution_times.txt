@@ -1,0 +1,6 @@
+Nodes: 10
+InOrder Time: 9.365e-06 seconds
+PostOrder Time: 3.5e-06 seconds
+PreOrder Time: 3.326e-06 seconds
+BreadthFirst Time: 0.000257317 seconds
+----------------------------------------
